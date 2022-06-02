@@ -8,7 +8,7 @@ Front-end developer with a passion for developing innovative programs that exped
 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [roy.eugenes000@gmail.com](mailto:roy.eugenes000@gmail.com)
-* 🚀  I'm currently working on [FrontEnd Mentor Challenges](http://www.frontendmentor.io/profile/roy-eugene049)
+* 🚀  I'm currently an ALX Software Engineering Student
 * 🧠  I'm learning React/ TailwindCSS/ SASS/ TypeScript
 * 🤝  I'm open to collaborating on Fascinating Projects
 * ⚡  I'm a music producer, guitarist and graphic designer in my other side of life.
