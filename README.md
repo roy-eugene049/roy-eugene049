@@ -1,14 +1,14 @@
 Hi 👋 My name is Roy Eugene
 ===========================
 
-Software Engineer | AI Enthusiast | UI/UX Designer
+Software Engineer | AI Enthusiast | Cloud Engineer
 --------------------------------------------------
 
 Front-end developer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success.
 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [roy.eugenes000@gmail.com](mailto:roy.eugenes000@gmail.com)
-* 🚀  I'm currently an ALX Software Engineering Student
+* 🚀  I'm currently learning Cloud Computing
 * 🧠  I'm learning React/ TailwindCSS/ SASS/ TypeScript
 * 🤝  I'm open to collaborating on Fascinating Projects
 * ⚡  I'm a music producer, guitarist and graphic designer in my other side of life.
