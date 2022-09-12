@@ -13,8 +13,8 @@ Front-end developer with a passion for developing innovative programs that exped
 * 🤝  I'm open to collaborating on Fascinating Projects
 * ⚡  I'm a music producer, guitarist and graphic designer in my other side of life.
 
-<a href="https://www.twitter.com/eugenes000" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/eugenes000?logo=twitter&style=for-the-badge&color=0891b2&labelColor=581c87"
+<a href="https://www.twitter.com/big_roey049" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/big_roey049?logo=twitter&style=for-the-badge&color=0891b2&labelColor=581c87"
 /></a>
 
 ### Skills
