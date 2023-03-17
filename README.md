@@ -1,7 +1,7 @@
 Hi 👋 My name is Roy Eugene
 ===========================
 
-Software Engineer | AI Enthusiast | Aspiring Cloud Engineer
+Software Engineer | AI Enthusiast | Cloud Engineer
 --------------------------------------------------
 
 Front-end developer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success.
