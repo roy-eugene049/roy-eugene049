@@ -8,7 +8,7 @@ Full-stack Engineer with a passion for developing innovative programs that exped
 
 * 🌍  I'm based in Mombasa, Kenya.
 * ✉️  You can contact me at [roy.eugenes000@gmail.com](mailto:roy.eugenes000@gmail.com)
-* 🚀  I'm currently learning C#, SAP, PPS One, ASP.NET
+* 🚀  I'm currently learning C#, ASP.NET, Nodejs
 * 🧠  I'm currently working as a Software Developer.
 * 🤝  I'm open to collaborating on Intuitive Projects.
 * ⚡  I'm a music producer, polyglot, AI Prompt Engineer, Digital Artist, and graphic designer in my other side of life.
