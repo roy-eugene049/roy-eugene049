@@ -4,11 +4,11 @@ Hi 👋 My name is Roy Eugene
 Software Engineer | AI Enthusiast | Prompt Engineer
 --------------------------------------------------
 
-Full-stack Engineer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success.
+Full-stack Engineer passionate about developing innovative programs that expedite the efficiency and effectiveness of organizational success.
 
 * 🌍  I'm based in Mombasa, Kenya.
 * ✉️  You can contact me at [roy.eugenes000@gmail.com](mailto:roy.eugenes000@gmail.com)
-* 🚀  I'm currently learning C#, ASP.NET, Nodejs
+* 🚀  I'm currently learning Advanced React and Nodejs
 * 🧠  I'm currently working as a Software Developer.
 * 🤝  I'm open to collaborating on Intuitive Projects.
 * ⚡  I'm a music producer, polyglot, AI Prompt Engineer, Digital Artist, and graphic designer in my other side of life.
