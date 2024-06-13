@@ -1,8 +1,8 @@
 Hi 👋 My name is Roy Eugene
 ===========================
 
-Software Engineer | AI Enthusiast | Prompt Engineer
---------------------------------------------------
+Solutions Architect | AI Enthusiast
+-----------------------------------
 
 Full-stack Engineer passionate about developing innovative programs that expedite the efficiency and effectiveness of organizational success.
 
