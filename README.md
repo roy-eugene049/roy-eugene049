@@ -6,9 +6,9 @@ Solutions Architect | AI Enthusiast
 
 Full-stack Engineer passionate about developing innovative programs that expedite the efficiency and effectiveness of organizational success.
 
-* 🌍  I'm based in Mombasa, Kenya.
+* 🌍  I'm based in Nairobi, Kenya.
 * ✉️  You can contact me at [roy.eugenes000@gmail.com](mailto:roy.eugenes000@gmail.com)
-* 🚀  I'm currently learning Advanced React and Nodejs
+* 🚀  I'm currently learning Astro
 * 🧠  I'm currently working as a Software Developer.
 * 🤝  I'm open to collaborating on Intuitive Projects.
 * ⚡  I'm a music producer, polyglot, AI Prompt Engineer, Digital Artist, and graphic designer in my other side of life.
