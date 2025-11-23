@@ -4,7 +4,7 @@ Hi 👋 My name is Roy Eugene
 Software Engineer | AI Enthusiast
 -----------------------------------
 
-Full-stack Engineer passionate about developing innovative programs that expedite the efficiency and effectiveness of organizational success.
+Software Engineer passionate about developing innovative programs that expedite the efficiency and effectiveness of organizational success.
 
 * 🌍  I'm based in Nairobi, Kenya.
 * ✉️  You can contact me at [roy.eugenes000@gmail.com](mailto:roy.eugenes000@gmail.com)
