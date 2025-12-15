@@ -1,93 +1,75 @@
-Hi 👋 I’m Roy Eugene  
-=====================
+<!-- Hero -->
+<h2 align="center">
+  👋 Hi, I’m <strong>Roy Eugene</strong>
+</h2>
 
-Frontend Product Engineer | AI-Ready SaaS & High-Performance Web Products  
--------------------------------------------------------------------------
+<h4 align="center">
+  Frontend Product Engineer · AI-Ready SaaS · High-Performance Web Interfaces
+</h4>
 
-I design and engineer **fast, scalable, production-grade web interfaces** for SaaS products and digital brands that need to ship confidently and scale without friction.
-
-My work sits at the intersection of **modern frontend architecture, thoughtful UI/UX, and product thinking**. I specialize in turning complex requirements and ambiguous ideas into **clean, intuitive, and maintainable systems** that users enjoy and teams can build on long-term.
-
-I’m most effective when working on:
-- AI-enabled SaaS dashboards and tools  
-- High-conversion web products and platforms  
-- Frontend systems that must scale across teams and features  
-- Performance-critical, API-driven applications  
-
----
-
-### 🔧 What I Work With
-
-**Frontend & UI Architecture**
-- React, Next.js, Astro, Vue, TanStack Start  
-- TypeScript, Tailwind CSS  
-- Design systems, accessibility, component architecture  
-
-**Performance & Product Quality**
-- SSR / SSG optimization  
-- Code-splitting & caching strategies  
-- Frontend performance tuning & UX polish  
-
-**APIs & Integrations**
-- REST & GraphQL APIs  
-- AI-powered frontend features  
-- Secure authentication & authorization patterns  
-
-**Product & Engineering Leadership**
-- Architectural decision-making  
-- Mentoring engineers  
-- Improving frontend standards & workflows  
-
----
-
-### 🧭 How I Work
-
-I thrive where **clarity needs to be created**.
-
-I enjoy ambiguous problems, early-stage ideas, and complex systems. I define direction, map the technical path, and execute with a balance of **speed, scalability, and long-term maintainability**. I care deeply about performance, UX nuance, and clean architectural decisions.
-
-I’m always asking:
-> **“How can this be simpler, faster, and easier to scale?”**
-
----
-
-### 🌍 About Me
-
-- 📍 Nairobi, Kenya (working globally)  
-- 🧠 Frontend Product Engineer & AI-curious builder  
-- 🤝 Open to meaningful collaborations & high-impact projects  
-
-Outside of engineering, I’m a **music producer, digital artist, graphic designer, and language enthusiast** — creativity heavily informs how I design and build software.
-
----
-
-### 🌐 Find Me Online
-
-<p align="left">
-<a href="https://www.github.com/roy-eugene049" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" /></a>
-<a href="https://www.linkedin.com/in/roy-eugene-2a1a361b4/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" /></a>
-<a href="https://www.twitter.com/big_roey049" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" /></a>
-<a href="https://discord.com/users/bigroey#4974" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/roy-eugene-2a1a361b4/">
+    <img src="https://img.shields.io/badge/LinkedIn-roy--eugene-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/big_roey049">
+    <img src="https://img.shields.io/badge/X-@big_roey049-000000?style=flat&logo=x&logoColor=white"/>
+  </a>
+  <a href="mailto:roy.eugenes000@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-6D28D9?style=flat"/>
+  </a>
 </p>
 
 ---
 
-### 📊 GitHub Activity
+### 🧠 What I Do
 
-<a href="http://www.github.com/roy-eugene049">
-<img src="https://github-readme-stats.vercel.app/api?username=roy-eugene049&show_icons=true&count_private=true&hide_border=true" />
-</a>
+I design and engineer **fast, scalable, AI-ready web products** for SaaS teams and digital brands.
 
-<a href="http://www.github.com/roy-eugene049">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=roy-eugene049&hide_border=true" />
-</a>
+My focus is on **frontend architecture, performance, and UX clarity** — turning complex requirements into interfaces that feel effortless to users and reliable for teams to scale.
 
 ---
 
-### ☕ Support
+### ⚙️ Core Stack
 
-If my work has been useful or inspiring, you can support me here:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,astro,tailwind,nodejs,graphql,postgres,mongodb,figma&theme=dark" />
+</p>
 
-<a href="https://www.buymeacoffee.com/royeugenes">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
-</a>
+---
+
+### 🚀 Engineering Focus
+
+- Product-focused frontend architecture  
+- Design systems & UI scalability  
+- Performance optimization (SSR, SSG, caching)  
+- API-driven & AI-enabled interfaces  
+- Security-aware frontend patterns  
+
+---
+
+### 🌍 About
+
+- 📍 Nairobi, Kenya — working globally  
+- 🧩 Enjoys ambiguous problems & early-stage products  
+- 🎧 Music producer · Digital artist · Design-driven engineer  
+
+> I tend to ask: **“Why hasn’t this been automated yet?”**  
+> It usually leads to better systems.
+
+---
+
+### 📊 GitHub at a Glance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=roy-eugene049&show_icons=true&hide_border=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roy-eugene049&hide_border=true&theme=transparent" />
+</p>
+
+---
+
+<p align="center">
+  ☕ <a href="https://www.buymeacoffee.com/royeugenes">Support my work</a>
+</p>
