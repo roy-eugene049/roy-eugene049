@@ -4,7 +4,7 @@
 </h2>
 
 <h4 align="center">
-  Frontend Product Engineer · AI-Ready SaaS · High-Performance Web Interfaces
+  Senior Frontend Product Engineer · AI-Ready SaaS · High-Performance Web Interfaces
 </h4>
 
 <p align="center">
